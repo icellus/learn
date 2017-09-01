@@ -1,0 +1,21 @@
+[
+    {
+        "name": "icellus/package",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "dist": {
+            "type": "path",
+            "url": "D:/wamp/www/package",
+            "reference": "ec582f4fafe67f43b6ece86ff6cde5778dd5df59",
+            "shasum": null
+        },
+        "type": "library",
+        "installation-source": "dist",
+        "authors": [
+            {
+                "name": "icellus",
+                "email": "icellus@github.com"
+            }
+        ]
+    }
+]

@@ -1,0 +1,10 @@
+{
+    "name": "icellus/package",
+    "authors": [
+        {
+            "name": "icellus",
+            "email": "icellus@github.com"
+        }
+    ],
+    "require": {}
+}
