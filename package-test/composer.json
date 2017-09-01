@@ -1,0 +1,12 @@
+{
+    "name": "administrator/package-test",
+    "require": {
+        "icellus/package": "dev-master"
+    },
+    "repositories": {
+        "foo": {
+            "type": "path",
+            "url": "D:/wamp/www/package"
+        }
+    }
+}
