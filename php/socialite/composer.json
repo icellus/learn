@@ -1,0 +1,6 @@
+{
+    "require": {
+        "laravel/socialite": "2.0",
+        "socialiteproviders/weixin": "^4.0"
+    }
+}
