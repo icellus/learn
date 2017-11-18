@@ -1,23 +1,49 @@
 <?php
+/*namespace a;
+
+use Closure;
 
 
 /**
-* test
+*       ss
 */
-class test
+/*class test
 {
     
-    function __construct()
+    function test(Closure $closure)
     {
-        echo '123';
-        exit();
-    }
+        $value = '123';
 
-    function __destruct() {
-        echo '456';
-    }
+        if (!$value instanceof Closure) {
+            $value = function () use ($value) {
+                return $value;
+            };
+ var_dump($value);
 
+            return $value;
+        }
+
+
+        return '123';
+    }
 }
 
+$test = new test();
+$a = function (){
+    return true;
+};
 
-$a = new test();
+echo '<pre>';
+var_dump($test->test($a));*/
+
+// $test = new test;
+
+
+// $a = "2017-10-08" - "2017-09-08";
+// echo $a;
+
+try {
+   
+}catch (\Exception $e) {
+    echo $e->getMessage();
+}
